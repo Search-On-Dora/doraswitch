@@ -63,6 +63,9 @@ const replacements = [
         pattern: /https:\/\/scrollscan\.co\/address\/(.+)/,
         replacement: 'https://app.ondora.xyz/network/scroll-zkp/accounts/$1'
     }
+
+    // Palm - No need, already default explorer
+    // TODO - Add Celo, Zora once they're not under maintenance
 ];
 
 chrome.runtime.onInstalled.addListener(() => {

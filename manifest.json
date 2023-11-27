@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Doraswitch",
   "version": "0.3",
-  "description": "Dora > other block explorers",
+  "description": "Redirect links other explorers on supported chains to the much more fun Dora block explorer. Saved you a few clicks!",
   "action": {},
   "permissions": [
     "scripting",
